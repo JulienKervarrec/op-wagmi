@@ -47,3 +47,8 @@ If you're interested in contributing, please read the [contributing docs](CONTRI
 ## License
 
 [Apache V2](LICENSE) License
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans [docs/fr](docs/fr/README.md) : presentation, hooks de depot, resolution de chaine et contrats, orchestration de la preuve de retrait, limites et perimetre.
